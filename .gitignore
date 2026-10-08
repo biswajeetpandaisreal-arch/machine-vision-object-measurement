@@ -1,0 +1,26 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.ipch
+*.db
+*.vsidx
+
+# Build output
+x64/
+x86/
+Debug/
+Release/
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.exe
+*.ifc
+*.tlog
+*.log
+*.recipe
+
+# OpenCV binaries (install OpenCV separately)
+*.dll
+*.lib
